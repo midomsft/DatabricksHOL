@@ -18,7 +18,7 @@ Labs
 
 This HOL can be used in two ways. You can either use the word documents as a guide and follow the intructions within, or follow the solution notebooks themselves and run the cells as required.
 
-Regardless of which route you take, start here - [Lab 1 - Getting Started](Labs/LAB01 - Setting up Resources.docx)
+Regardless of which route you take, start here - [Lab 1 - Getting Started](https://github.com/midomsft/DatabricksHOL/blob/master/Labs/LAB01%20-%20Setting%20up%20Resources.docx)
 
 
 
