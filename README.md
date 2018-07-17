@@ -1,9 +1,11 @@
-
+.
 # Intro To Azure Databricks Hands On Lab
 
 Azure Databricks is a new offering within the Microsoft Azure Data & Analytics space that provides a unified data engineering and data science platform.
 
-This Hands On Lab (HOL) serves as a taster session for those getting started with Azure Databricks, and pulls together tutorials from existing documents into a Notebook environment.
+Further information can be found [here](https://azure.microsoft.com/en-gb/resources/videos/azure-databricks-overview/).
+
+This Hands On Lab (HOL) serves as a taster session for those getting started with Azure Databricks, and pulls together tutorials from existing documents such as those found in the [Azure docs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse).
 
 This is a starter level for those getting into Databricks, however it assumes some knowledge of the Azure portal.
 
