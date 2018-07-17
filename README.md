@@ -29,7 +29,7 @@ Regardless of which route you take, start here - [Lab 1 - Getting Started](https
 
 The notebooks completed during the HOL can be found [here](https://github.com/midomsft/DatabricksHOL/tree/master/Solution%20Notebooks). When completed the Databrick steps in the HOL, you can either follow the step by step guide in the docs under Labs, or simply run through the notebooks directly to avoid switching between screens.
 
-##Data
+## Data
 
 This folder contains the small_radio_json.json file used in the ETL Lab.
 
