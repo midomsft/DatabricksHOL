@@ -1,4 +1,3 @@
-
 # Intro To Azure Databricks Hands On Lab
 
 Azure Databricks is a new offering within the Microsoft Azure Data & Analytics space that provides a unified data engineering and data science platform.
@@ -24,7 +23,7 @@ Regardless of which route you take, start here - [Lab 1 - Getting Started](https
 
 - [Lab 01 - Setup](/Labs)
 - [Lab 02 - Extract, Transformation and Loading With Azure Databricks](/labs)
-- [Lab 03 - Data Science](/Labs)
+- [Lab 03 - Data Science With Azure Databricks](/Labs/LAB03%20-%20Data%20Science%20using%20Azure%20Databricks.docx)
 
 ## Solutions
 
