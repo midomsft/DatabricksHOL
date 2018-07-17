@@ -1,2 +1,7 @@
 # DatabricksHOL
-A simple intro lab to Azure Databricks that gives users a flavour of both data engineering and data science with Azure Databricks.
+
+Azure Databricks is a new offering within the Microsoft Azure Data & Analytics space that provides a unified data engineering and data science platform.
+
+
+
+
