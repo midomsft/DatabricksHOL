@@ -1,4 +1,4 @@
-.
+
 # Intro To Azure Databricks Hands On Lab
 
 Azure Databricks is a new offering within the Microsoft Azure Data & Analytics space that provides a unified data engineering and data science platform.
@@ -21,6 +21,10 @@ Specifically, we'll cover:
 This HOL can be used in two ways. You can either use the word documents as a guide and follow the intructions within, or follow the solution notebooks themselves and run the cells as required.
 
 Regardless of which route you take, start here - [Lab 1 - Getting Started](https://github.com/midomsft/DatabricksHOL/blob/master/Labs/LAB01%20-%20Setting%20up%20Resources.docx)
+
+- [Lab 01 - Setup](/Labs)
+- [Lab 02 - Extract, Transformation and Loading With Azure Databricks](/labs)
+- [Lab 03 - Data Science](/Labs)
 
 ## Solutions
 
