@@ -22,7 +22,7 @@ This HOL can be used in two ways. You can either use the word documents as a gui
 Regardless of which route you take, start here - [Lab 1 - Getting Started](https://github.com/midomsft/DatabricksHOL/blob/master/Labs/LAB01%20-%20Setting%20up%20Resources.docx)
 
 - [Lab 01 - Setup](/Labs)
-- [Lab 02 - Extract, Transformation and Loading With Azure Databricks](/labs)
+- [Lab 02 - Extract, Transformation and Loading With Azure Databricks](/labs/LAB02%20-%20Extract%2C%20transform%2C%20and%20load%20data%20using%20Azure%20Databricks.docx)
 - [Lab 03 - Data Science With Azure Databricks](/Labs/LAB03%20-%20Data%20Science%20using%20Azure%20Databricks.docx)
 
 ## Solutions
