@@ -14,7 +14,7 @@ Specifically, we'll cover:
 - Getting Started with R Dataframes in Databricks using SparkR
 - Building Logistic and Linear Regression Models with Azure Databricks and glm()
 
-Labs
+## Labs
 
 This HOL can be used in two ways. You can either use the word documents as a guide and follow the intructions within, or follow the solution notebooks themselves and run the cells as required.
 
