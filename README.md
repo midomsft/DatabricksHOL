@@ -6,7 +6,7 @@ Further information can be found [here](https://azure.microsoft.com/en-gb/resour
 
 This Hands On Lab (HOL) serves as a taster session for those getting started with Azure Databricks, and pulls together tutorials from existing documents such as those found in the [Azure docs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse).
 
-This is a starter level for those getting into Databricks, however it assumes some knowledge of the Azure portal.
+This is a starter level for those getting into Databricks, however it assumes some knowledge of creating resources in the Azure portal.
 
 Specifically, we'll cover:
 
@@ -28,6 +28,12 @@ Regardless of which route you take, start here - [Lab 1 - Getting Started](https
 ## Solutions
 
 The notebooks completed during the HOL can be found [here](https://github.com/midomsft/DatabricksHOL/tree/master/Solution%20Notebooks). When completed the Databrick steps in the HOL, you can either follow the step by step guide in the docs under Labs, or simply run through the notebooks directly to avoid switching between screens.
+
+Within Databricks you can go to Workspace -> (Drop Down) -> Import -> Import Solution Notebooks (dbc files) into your own workspace.
+
+## Data
+
+This folder contains the small_radio_json.json file used in the ETL Lab.
 
 
 
